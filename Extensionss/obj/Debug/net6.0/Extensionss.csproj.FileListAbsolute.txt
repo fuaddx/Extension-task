@@ -1,0 +1,14 @@
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\bin\Debug\net6.0\Extensionss.exe
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\bin\Debug\net6.0\Extensionss.deps.json
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\bin\Debug\net6.0\Extensionss.runtimeconfig.json
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\bin\Debug\net6.0\Extensionss.dll
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\bin\Debug\net6.0\Extensionss.pdb
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\Extensionss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\Extensionss.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\Extensionss.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\Extensionss.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\Extensionss.dll
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\refint\Extensionss.dll
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\Extensionss.pdb
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\Extensionss.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Desktop\Extensionss\Extensionss\obj\Debug\net6.0\ref\Extensionss.dll
